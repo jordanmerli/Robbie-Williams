@@ -1,0 +1,26 @@
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\bin\Debug\Robbie Williams.exe
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\bin\Debug\Robbie Williams.pdb
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\bin\Debug\Robbie Williams.xml
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\obj\x86\Debug\Robbie_Williams.Form1.resources
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\obj\x86\Debug\Robbie_Williams.Resources.resources
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\obj\x86\Debug\Robbie Williams.exe
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\obj\x86\Debug\Robbie Williams.xml
+C:\Users\MERLI\AppData\Local\Temporary Projects\Robbie Williams\obj\x86\Debug\Robbie Williams.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\Robbie Williams.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\Robbie Williams.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\Robbie Williams.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\bin\Debug\Robbie Williams.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\bin\Debug\Robbie Williams.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\bin\Debug\Robbie Williams.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\Robbie_Williams.Form1.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\Robbie_Williams.Form2.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\Robbie_Williams.Resources.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\Robbie_Williams.Form4.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\Robbie_Williams.Form3.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Robbie Williams\Robbie Williams\obj\x86\Debug\Robbie_Williams.Form5.resources
